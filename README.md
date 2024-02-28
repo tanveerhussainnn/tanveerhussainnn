@@ -3,7 +3,7 @@
 <h3 align="center">I am highly motivated and energetic creative Graphic Designer who believes in creativity and conversion into visuals. I love to create mind blowing designs one who get eye-catchy. I am always looking forward to collaborate and contribute on exciting projects.</h3>
 
 <h1 align="center"><b>My Skills & Services</b></h1>
-<h3 align="center"> Social Media Expert | Resume Writing | Logo Design | Posts Design | Advertisement Design | Thumbnail Design | Banner Design | Video Creater/Designer | Certificate Design | Business/Visiting card Design | Invitition Card Design | Animated Post/Video Design | Brochure Design | Flyers Designer | Poster Design | Cover Photo Design </h3>
+<h3 align="center"> Graphic Designer | Adobe Illustrator, Adobe Photoshop & Canva </h3>
 <h2 align="center"><b><i>& Many More Whatever You Want To Design For Your Busiess or Individuals</b></i></h2>
 
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/design-tools-concept-illustration_114360-1227.jpg">
